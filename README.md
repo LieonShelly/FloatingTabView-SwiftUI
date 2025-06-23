@@ -4,8 +4,9 @@ A customizable floating tab bar component for SwiftUI, providing a modern, anima
 
 ## Demo
 
-See below for a demo video showcasing the FloatingTabView in action.
-[floating_tab](floating_tab.mov)
+Below for a demo video showcasing the FloatingTabView in action.
+
+![floating_tab](floating_tab.mov)
 
 ## Features
 - Floating, capsule-shaped tab bar with smooth animations
